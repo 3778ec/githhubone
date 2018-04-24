@@ -1,2 +1,0 @@
-# githhubone
-proyecto de prueba
